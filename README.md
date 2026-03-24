@@ -35,7 +35,7 @@ open streamflow-map/streamflow_map.html
 This map supports a broader research program on Iowa's nitrogen transport and water quality:
 
 - [Nitrogen Load Dashboard](https://github.com/researchsam/Nitrogen_load_dashboard) — County-level nitrogen load analysis
-- *Analyzing Nitrate Transport Across Iowa Counties* — M.S. Thesis, Iowa State University ([ProQuest]([https://www.proquest.com/docview/31328714](https://www.proquest.com/dissertations-theses/county-scale-approach-simulating-nitrate-load/docview/3165557213/se-2?accountid=10906)))
+- *Analyzing Nitrate Transport Across Iowa Counties* — M.S. Thesis, Iowa State University ([ProQuest](https://www.proquest.com/dissertations-theses/county-scale-approach-simulating-nitrate-load/docview/3165557213/se-2?accountid=10906))
 
 ## Author
 
